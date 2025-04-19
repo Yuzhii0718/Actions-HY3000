@@ -2,3 +2,5 @@ src-git-full packages https://github.com/lgs2007m/immortalwrt-mt798x-packages.gi
 src-git-full luci https://github.com/lgs2007m/immortalwrt-mt798x-luci.git;openwrt-21.02
 src-git-full routing https://github.com/openwrt/routing.git;openwrt-21.02
 src-git-full telephony https://github.com/openwrt/telephony.git;openwrt-21.02
+src-git wolplus https://github.com/lianzeliu/wolplus.git
+src-git mosdns https://github.com/sbwml/luci-app-mosdns
